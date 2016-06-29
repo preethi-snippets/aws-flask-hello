@@ -1,0 +1,11 @@
+branch-defaults:
+  default:
+    environment: hello-dev
+    group_suffix: null
+global:
+  application_name: hello
+  default_ec2_keyname: null
+  default_platform: Python 2.7
+  default_region: us-west-2
+  profile: ask-al-test
+  sc: null
