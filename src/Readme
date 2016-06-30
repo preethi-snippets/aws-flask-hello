@@ -19,6 +19,11 @@
 - eb init --profile <username>
 - eb create hello-env
 - eb status
+- eb open
+
+- to update deployed application/source 
+  - eb deploy
+  - if the source is git repo, then changes need to be committed on local repository before deploy
 
 
 
